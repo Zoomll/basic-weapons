@@ -39,7 +39,7 @@
   "tag.item.basicweapons.tools.spears": "Spears",
   "tag.item.c.tools.spears": "Spears",
   "tag.item.c.tools.hammers": "Hammers",
-  "enchantment.minecraft.might": "Might",
+  "enchantment.basicweapons.might": "Might",
   "item.basicweapons.bronze_dagger": "Bronze Dagger",
   "item.basicweapons.bronze_hammer": "Bronze Hammer",
   "item.basicweapons.bronze_club": "Bronze Club",
@@ -55,5 +55,12 @@
   "item.basicweapons.netherite_glaive": "Netherite Glaive",
   "tag.item.basicweapons.tools.glaives": "Glaives",
   "tag.item.c.tools.glaives": "Glaives",
-  "tag.item.c.tools.melee_weapons": "Melee Weapons"
+  "tag.item.c.tools.melee_weapons": "Melee Weapons",
+  "item.basicweapons.copper_dagger": "Copper Dagger",
+  "item.basicweapons.copper_hammer": "Copper Hammer",
+  "item.basicweapons.copper_club": "Copper Club",
+  "item.basicweapons.copper_spear": "Copper Spear",
+  "item.basicweapons.copper_quarterstaff": "Copper Quarterstaff",
+  "item.basicweapons.copper_glaive": "Copper Glaive",
+  "enchantment.basicweapons.might.desc": "Increases the damage of the item."
 }
